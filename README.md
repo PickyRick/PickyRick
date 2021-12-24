@@ -2,7 +2,7 @@
 - 👀 I’m interested in Docker, Kubernetes, knwoledge & information management
 - 🌱 I’m currently learning Python, Java Spring, SQL & DevOps Culture
 - 💞️ I’m looking to collaborate on all subjects above
-- 📫 How to reach me by : email at first
+- 📫 How to reach me : by email at first
 
 <!---
 PickyRick/PickyRick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
